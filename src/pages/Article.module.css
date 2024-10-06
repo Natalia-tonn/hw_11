@@ -1,0 +1,25 @@
+.article_box {
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+.articles{
+    list-style-type: none;
+    font-size:  20px;
+    text-decoration: none;
+    color: rgb(22, 22, 39);
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    font-size: 24px;
+}
+.article_box {
+    padding: 20px;
+    border: 1px solid #ccc; 
+
+}
+.title{
+    color: rgb(80, 40, 116);
+}
+
